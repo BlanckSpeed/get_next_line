@@ -6,7 +6,7 @@
 /*   By: rodrigo <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/26 17:25:36 by rodrigo           #+#    #+#             */
-/*   Updated: 2024/07/26 17:48:34 by rodrigo          ###   ########.fr       */
+/*   Updated: 2024/07/26 18:47:49 by rlendine         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #ifndef GET_NEXT_LINE_H
@@ -21,7 +21,6 @@
 #  define BUFFER_SIZE 512
 # endif
 
-# define NIL 0
 # include <unistd.h>
 # include <stdio.h>
 # include <fcntl.h>
